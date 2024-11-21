@@ -1,4 +1,4 @@
-# IAs Generativas e o cidadão desenvolvedor ;)
+# Podcats: IAs Generativas e o cidadão desenvolvedor 
 
 ## 📒 Descrição
 
