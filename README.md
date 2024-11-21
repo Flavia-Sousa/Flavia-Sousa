@@ -1,9 +1,6 @@
 # Podcats: IAs Generativas e o cidadão desenvolvedor 
 
 ## 📒 Descrição
-# Podcast: Descobrindo IAs Generativas em 5 Minutos 🎙️
-
-## 📒 Descrição
 Este podcast de 5 minutos oferece uma perpectiva da relação entre as IAs generativas e o cidadão desenvolvedor, fala como esse tipo de ferramenta democratizou o aceso a tecnologia e como possibilida o cidadão comum a criar soluções para seus problemas com aajuda das IAs.
 
 ## 🤖 Tecnologias Utilizadas
