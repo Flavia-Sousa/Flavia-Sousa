@@ -7,18 +7,18 @@ Este podcast de 5 minutos oferece uma perpectiva da relação entre as IAs gener
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
 - IA Generativa **[ElevenLabs](https://www.elevenlabs.io)** para sintetização de voz;
-- Software **[Descript](https://www.descript.com)** para edição e montagem do podcast.
 
 ## 🧐 Processo de Criação
-"ChatGPT" foi utilizado para desenvolver o roteiro e aprimorar a narrativa do podcast. "ElevenLabs" ajudou a criar uma voz sintética envolvente para a narração, enquanto o "Descript" foi essencial para a edição final, garantindo um fluxo suave e profissional.
+"ChatGPT" foi utilizado para desenvolver o roteiro e aprimorar a narrativa do podcast. "ElevenLabs" ajudou a aplicar uma voz sintética envolvente para a narração, garantindo um fluxo suave e profissional.
 
 ## 🚀 Resultados
-O episódio é uma reflexão sobre a possibilidade dos cidadãos das mais diversas áreas de usar a tecnologia ao seu favor, mesmo sem conhecimento de códigos de programação.
+Trazer uma breve conceituação de IAs Generativas, mostrar como essa tecnologia pode ajudar qualquer cidadão a encontrar solucções, agilizar e potencializar seus ganhos com uso dessas ferramentas. 
 
 [LINK PARA O PODCAST AQUI]()
 
 ## 💭 Reflexão
-O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo auditivo, abrindo novos caminhos para a produção de mídia digital.
+O episódio é uma reflexão sobre a possibilidade dos cidadãos das mais diversas áreas de usar a tecnologia ao seu favor, mesmo sem conhecimento de códigos de programação.
+
 
 <!---
 Flavia-Sousa/Flavia-Sousa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
